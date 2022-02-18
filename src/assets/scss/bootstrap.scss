@@ -1,0 +1,16 @@
+//Core files
+@import "./node_modules/bootstrap/scss/functions";
+@import "./node_modules/bootstrap/scss/variables";
+@import "variables";
+@import "./node_modules/bootstrap/scss/bootstrap";
+
+//Components
+@import "custom/components/badge";
+@import "custom/components/breadcrumb";
+@import "custom/components/dropdown";
+@import "custom/components/forms";
+@import "custom/components/nav";
+@import "custom/components/popover";
+@import "custom/components/progress";
+@import "custom/components/tables";
+@import "custom/components/type";
